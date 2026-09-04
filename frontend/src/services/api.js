@@ -16,4 +16,14 @@ export const uploadFile = async (file) => {
     return res.data;
 };
 
-export default api;
+export const processDocument = async (documentId, chunkSize = 500, chunkOverlap = 100) => {
+    const res = await api.post(`/process/${documentId}`, null, {
+        params: {
+            chunk_size: chunkSize,
+            chunk_overlap: chunkOverlap
+        }
+    });
+    return res.data;
+};
+
+export default api;

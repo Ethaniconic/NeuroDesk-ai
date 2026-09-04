@@ -1,0 +1,789 @@
+{
+    "document_id": "d0197f82371748e69fbb564e2182eefb",
+    "chunks": [
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c0",
+            "page_number": 1,
+            "text": "Strategic Analysis and Patent Proposal for the Bio-Responsive Fiducial Overlay System (BRFOS) in Smartphone-Based Medical Imaging The rapid proliferation of mobile health applications has fundamentally transformed the landscape of decentralized medical diagnostics. With billions of users possessing high-resolution smartphone cameras, the potential to shift clinical imaging from resource-intensive hospital environments to point-of-care and home settings is unprecedented. However, despite signific",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c1",
+            "page_number": 1,
+            "text": "hospital environments to point-of-care and home settings is unprecedented. However, despite significant advancements in artificial intelligence and machine learning, smartphone-based medical imaging remains heavily constrained by the physical limitations of consumer-grade optics, unstandardized ambient lighting, and the complete lack of integrated biochemical data. This report provides an exhaustive analysis of the current state of smartphone-based diagnostic imaging, synthesizing data across bu",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c2",
+            "page_number": 1,
+            "text": "ve analysis of the current state of smartphone-based diagnostic imaging, synthesizing data across burn severity assessment, wound healing, dental caries detection, and orthopedic screening. By identifying the critical limitations inherent in these disparate domains and cross-pollinating advanced algorithmic techniques from agricultural predictive modeling and decentralized tracking networks, this document outlines a highly patentable, technologically feasible, and entirely unique intellectual pr",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c3",
+            "page_number": 1,
+            "text": "document outlines a highly patentable, technologically feasible, and entirely unique intellectual property framework. The proposed invention, the Bio-Responsive Fiducial Overlay System coupled with a Joint-Task Convolutional Neural Network, bridges the critical gap between optical computer vision, environmental color calibration, and point-of-care biochemical sensing. Critical Analysis of Current Smartphone Diagnostic Modalities To architect a novel and patentable solution, it is first necessary",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c4",
+            "page_number": 1,
+            "text": "Smartphone Diagnostic Modalities To architect a novel and patentable solution, it is first necessary to critically evaluate the state-of-the-art across various smartphone-based medical imaging modalities. The current literature demonstrates highly compartmentalized advancements, where spatial mapping, colorimetric analysis, and biochemical sensing are treated as mutually exclusive technological trajectories. Burn Severity and Wound Tissue Assessment Accurate assessment of burn severity and wound",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c5",
+            "page_number": 1,
+            "text": "ajectories. Burn Severity and Wound Tissue Assessment Accurate assessment of burn severity and wound healing is vital for determining treatment protocols, such as the necessity of surgical skin grafting1. Traditional visual inspection by clinicians is highly subjective, with diagnostic accuracy often falling below fifty percent among non-specialists2. Consequently, Convolutional Neural Networks have been aggressively deployed to automate this process. Recent applications utilize standard RGB pho",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p1_c6",
+            "page_number": 1,
+            "text": "ve been aggressively deployed to automate this process. Recent applications utilize standard RGB photographs captured via smartphones to perform three primary diagnostic tasks: Burn Area Segmentation,",
+            "start_char": 2400,
+            "end_char": 2600
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p2_c0",
+            "page_number": 2,
+            "text": "Burn Depth Classification, and Burn Depth Segmentation2. Advanced frameworks employ joint-task deep learning models capable of simultaneously segmenting body parts and burn regions to calculate the Total Body Surface Area percentage3. For instance, one platform utilizing an asymmetric attention mechanism achieved an R-squared value of 0.9136 for Total Body Surface Area assessment and a Dice coefficient of 85.12% for burn depth segmentation on a dataset of 1,340 clinical images3. Other pipeline m",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p2_c1",
+            "page_number": 2,
+            "text": "cient of 85.12% for burn depth segmentation on a dataset of 1,340 clinical images3. Other pipeline models leverage a ResNet50 architecture acting as an encoder coupled with a U-Net decoder designed specifically for background removal, achieving an accuracy of 0.9757 and a Jaccard index, or Intersection over Union, of 0.94804. Despite high algorithmic accuracy, these models suffer from a fundamental physical flaw related to dimensional scale and color variance. To calculate the physical area, the",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p2_c2",
+            "page_number": 2,
+            "text": "l physical flaw related to dimensional scale and color variance. To calculate the physical area, the camera must understand its physical distance from the skin. Furthermore, tissue classification relies heavily on color variations, such as distinguishing the pink hue of epithelialization from the deep red of granulation tissue or the yellow and black presentations of necrotic tissue5. Diagnostic Task Primary Neural Network Architecture Peak Accuracy / Metric Key Limitation Identified Background ",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p2_c3",
+            "page_number": 2,
+            "text": "ask Primary Neural Network Architecture Peak Accuracy / Metric Key Limitation Identified Background Removal ResNet50 (Encoder) + U-Net (Decoder) 0.9757 Accuracy, 0.9480 IoU4 Struggles with highly complex, unconstrained backgrounds in home settings. Burn Area Segmentation Joint-Task CNN with Asymmetric Attention R-squared 0.9136, Dice 85.12%3 Lacks absolute physical scaling; relies on relative body part estimation. Tissue Composition U-Net with EfficientNet / MobileNetV2 IoU 0.6964 (Wound Area)5 ",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p2_c4",
+            "page_number": 2,
+            "text": " part estimation. Tissue Composition U-Net with EfficientNet / MobileNetV2 IoU 0.6964 (Wound Area)5 Highly susceptible to ambient light distortions skewing color profiles. Depth Classification Support Vector Machine (SVM) High variance based on features4 Cannot differentiate between deep partial thickness and full thickness",
+            "start_char": 1600,
+            "end_char": 1925
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c0",
+            "page_number": 3,
+            "text": "reliably without 3D data. The Challenge of Color Calibration in Consumer Optics Smartphone image sensors exhibit vast, model-specific variations in their red-green-blue spectral response functions, also known as spectral sensitivity6. Furthermore, unconstrained ambient lighting, such as 3000 K light-emitting diodes, 5800 K fluorescent tubes, incandescent light, and natural sunlight, possesses distinct spectral profiles that severely disrupt computational color constancy6. An image of a wound cap",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c1",
+            "page_number": 3,
+            "text": "inct spectral profiles that severely disrupt computational color constancy6. An image of a wound captured under warm incandescent lighting will artificially skew toward the yellow and red spectrums. This spectral shift can easily confuse a neural network into misclassifying healthy, healing epithelial tissue as necrotic or infected exudate. Furthermore, standard smartphone image processing heavily relies on the JPEG file format, an 8-bit depth format that uses lossy compression, which inherently",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c2",
+            "page_number": 3,
+            "text": " relies on the JPEG file format, an 8-bit depth format that uses lossy compression, which inherently degrades the precise color values required for accurate medical analysis6. While RAW 10-bit depth formats minimize data compression, they are not universally adopted in standard telemedicine video conferencing streams6. Current attempts to resolve this variance involve placing a physical color and measurement calibration chart adjacent to the wound during photography5. A leading methodological ap",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c3",
+            "page_number": 3,
+            "text": "measurement calibration chart adjacent to the wound during photography5. A leading methodological approach utilizes a chart containing four ArUco markers, which are synthetic binary square fiducial markers, positioned at the corners, alongside a 24-color MacBeth chart situated in the center7. The ArUco markers allow the algorithm to perform precise camera pose estimation, computing rotation and translation vectors to mathematically align the coordinate system of the camera with the physical plan",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c4",
+            "page_number": 3,
+            "text": "anslation vectors to mathematically align the coordinate system of the camera with the physical plane of the marker7. Concurrently, a Moore-Penrose inverse matrix is calculated between the source red-green-blue values of the MacBeth chart identified in the photograph and the known, absolute target profiles, yielding a localized color transformation matrix that standardizes the image8. While this approach is mathematically sound, it is clinically cumbersome and hazardous. Placing a non-sterile, r",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c5",
+            "page_number": 3,
+            "text": "pproach is mathematically sound, it is clinically cumbersome and hazardous. Placing a non-sterile, reusable cardboard or plastic color chart immediately adjacent to an open wound or severe burn introduces significant infection control risks. Furthermore, human anatomy is rarely flat. If the skin is curved, such as on a limb or torso, a flat rigid calibration chart placed near the wound will not accurately represent the topographical lighting conditions directly on the wound surface. Smartphone-B",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c6",
+            "page_number": 3,
+            "text": "curately represent the topographical lighting conditions directly on the wound surface. Smartphone-Based Optical Biochemical Sensing Separate from morphological and spatial imaging, smartphones are increasingly being utilized as colorimetric readers for biochemical assays. Algorithms are engineered to convert standard red-green-blue images into the CIE-XYZ color space or the HSV space to detect subtle, analyte-driven colorimetric shifts8. For example, the distance between a newly imaged color fr",
+            "start_char": 2400,
+            "end_char": 2900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p3_c7",
+            "page_number": 3,
+            "text": "btle, analyte-driven colorimetric shifts8. For example, the distance between a newly imaged color from a fluid sample and a predefined reference color on a testing strip is calculated in the CIE-xy chromaticity diagram, allowing the software to output a highly accurate concentration value for specific chemical analytes based on shortest-distance mapping9.",
+            "start_char": 2800,
+            "end_char": 3157
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c0",
+            "page_number": 4,
+            "text": "In the specialized realm of advanced wound care, material scientists have developed photonic smart bandages embedded with intrinsically pH-sensitive optical fibers or chemical dyes. One notable development utilizes a polydimethylsiloxane precursor uniformly doped with rhodamine B dye10. This specific chemical matrix exhibits a linear optical transmission decrease as the potential of hydrogen increases, demonstrating a quantifiable wavelength shift of 0.67 nanometers per pH unit10. However, trans",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c1",
+            "page_number": 4,
+            "text": "ases, demonstrating a quantifiable wavelength shift of 0.67 nanometers per pH unit10. However, translating these smart bandages into actionable clinical tools traditionally requires dedicated spectrophotometers or carefully controlled optical environments. This hardware dependency currently prevents their widespread utility in consumer-facing smartphone applications, isolating biochemical data from morphological imagery. Diagnostic Screening via Two-Dimensional Image Mapping In orthopedics and d",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c2",
+            "page_number": 4,
+            "text": "m morphological imagery. Diagnostic Screening via Two-Dimensional Image Mapping In orthopedics and dentistry, smartphone cameras are aggressively utilized to map complex anatomical structures, though they face parallel calibration and environmental hurdles. In the field of teledentistry, recent studies utilizing advanced YOLOv6-L6 and HRNet deep learning architectures have attempted to detect dental caries from self-acquired smartphone images11. While binary classification, which simply determin",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c3",
+            "page_number": 4,
+            "text": "al caries from self-acquired smartphone images11. While binary classification, which simply determines the presence or absence of caries, has shown high sensitivity ranging from 86 to 90 percent and specificity exceeding 96 percent in controlled settings, multi-class staging heavily degrades in real-world scenarios11. The decline in diagnostic accuracy is directly attributed to saliva glare, unpredictable flash illumination, and a lack of reliable spatial reference points within the oral cavity1",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c4",
+            "page_number": 4,
+            "text": "dictable flash illumination, and a lack of reliable spatial reference points within the oral cavity11. Similarly, mobile applications designed to replace radiation-heavy X-rays for scoliosis screening attempt to analyze two-dimensional digital photographs of a patient's back during an Adam's Forward Bending Test15. These screening applications project a digital grid, typically consisting of four columns and forty rows, over the image and utilize simple binarization to calculate the percentage of",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c5",
+            "page_number": 4,
+            "text": "olumns and forty rows, over the image and utilize simple binarization to calculate the percentage of black versus white area to estimate spinal curvature and trunk asymmetry15. However, this method is highly vulnerable to camera angle distortion, distance variations, and natural variations in skin tone, preventing it from achieving the precision required for clinical diagnosis15. Architectural Lessons from Cross-Disciplinary Machine Learning To overcome the limitations of isolated image processi",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c6",
+            "page_number": 4,
+            "text": "sons from Cross-Disciplinary Machine Learning To overcome the limitations of isolated image processing in medical diagnostics, it is highly advantageous to examine advanced machine learning architectures deployed in seemingly disparate fields, such as agricultural yield prediction and rural immunization tracking. These domains have successfully solved complex problems related to time-series forecasting, missing data imputation, and model interpretability, which are directly applicable to longitu",
+            "start_char": 2400,
+            "end_char": 2900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c7",
+            "page_number": 4,
+            "text": "sting, missing data imputation, and model interpretability, which are directly applicable to longitudinal wound and disease tracking. In smart agriculture, predictive models are tasked with recommending crops based on highly variable environmental inputs, such as soil nutrients, rainfall, and temperature19. Advanced frameworks do not rely on a single algorithm; rather, they employ hybrid ensemble models that",
+            "start_char": 2800,
+            "end_char": 3211
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p4_c8",
+            "page_number": 4,
+            "text": "models that",
+            "start_char": 3200,
+            "end_char": 3211
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c0",
+            "page_number": 5,
+            "text": "integrate Long Short-Term Memory networks, Support Vector Regression, and Extreme Gradient Boosting20. These base learners are combined using dynamic inverse root-mean-square error weighting strategies that adaptively assign higher weights to models exhibiting superior validation performance20. Crucially, because temporal agricultural data often suffers from missing entries due to sensor failures, researchers apply Expectation-Maximization techniques to iteratively estimate and update missing va",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c1",
+            "page_number": 5,
+            "text": " researchers apply Expectation-Maximization techniques to iteratively estimate and update missing values based on probabilistic expectations, ensuring a robust dataset for the Long Short-Term Memory networks to process21. Furthermore, to make these highly complex models trustworthy to end-users, Explainable Artificial Intelligence techniques, such as SHapley Additive exPlanations and Local Interpretable Model-Agnostic Explanations, are integrated to quantify exactly how each variable influences ",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c2",
+            "page_number": 5,
+            "text": "etable Model-Agnostic Explanations, are integrated to quantify exactly how each variable influences the final prediction23. Parallel challenges exist in public health tracking, specifically regarding immunization compliance in rural settings, where dropout rates between vaccine doses can reach alarming levels of up to 25 percent26. Studies indicate that managing longitudinal patient tracking requires automated, personalized intervention systems, such as SMS reminders, to ensure timely data colle",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c3",
+            "page_number": 5,
+            "text": "res automated, personalized intervention systems, such as SMS reminders, to ensure timely data collection and compliance27. Furthermore, decentralized tracking systems utilizing blockchain technology have been proposed to eliminate data silos and ensure the traceability and immutability of longitudinal patient records27. By synthesizing these cross-disciplinary innovations, a next-generation medical imaging application can be theorized. A comprehensive wound healing tracker is fundamentally a ti",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c4",
+            "page_number": 5,
+            "text": "al imaging application can be theorized. A comprehensive wound healing tracker is fundamentally a time-series prediction problem, identical in data structure to crop yield forecasting. Just as a Long Short-Term Memory network predicts future crop yields based on sequential weather data, a similar backend architecture can predict tissue granulation rates and expected healing timelines based on sequential smartphone images. If a patient misses a scheduled image capture, Expectation-Maximization al",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c5",
+            "page_number": 5,
+            "text": "ential smartphone images. If a patient misses a scheduled image capture, Expectation-Maximization algorithms can probabilistically impute the missing morphological data to maintain the integrity of the temporal tracking22. Finally, integrating Explainable Artificial Intelligence ensures that when the neural network classifies a region of a burn as requiring a skin graft, it visually highlights the specific pixel features and colorimetric shifts that drove the decision, fostering clinical trust23",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c6",
+            "page_number": 5,
+            "text": " specific pixel features and colorimetric shifts that drove the decision, fostering clinical trust23. Algorithmic Concept Origin Domain Adaptation for Medical Imaging Patent Long Short-Term Memory Agricultural Yield Forecasting20 Modeling the temporal trajectory of wound healing across multiple days to predict full closure time. Expectation-Maximization Environmental Data Cleaning22 Probabilistically imputing missing structural data",
+            "start_char": 2400,
+            "end_char": 2836
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p5_c7",
+            "page_number": 5,
+            "text": "lly imputing missing structural data",
+            "start_char": 2800,
+            "end_char": 2836
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c0",
+            "page_number": 6,
+            "text": "when patients fail to take daily photographs. Explainable AI (SHAP/LIME) Crop Recommendation Trust23 Providing clinicians with visual heatmaps explaining why specific tissue was classified as necrotic. Automated Reminders & Blockchain Rural Immunization Tracking26 Securing patient image data in a decentralized ledger while prompting automated follow-ups to reduce dropout rates. Identification of the Intellectual Property White Space A comprehensive synthesis of the aforementioned literature reve",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c1",
+            "page_number": 6,
+            "text": "he Intellectual Property White Space A comprehensive synthesis of the aforementioned literature reveals a highly fragmented technological landscape. Currently, if a clinician or a remote patient wishes to thoroughly assess a complex burn, chronic wound, or oral lesion, they are forced to utilize a disjointed array of tools. They must first use a deep learning model to visually segment the tissue2. Subsequently, they must introduce a physical, non-sterile calibration chart into the frame to corre",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c2",
+            "page_number": 6,
+            "text": " Subsequently, they must introduce a physical, non-sterile calibration chart into the frame to correct for ambient light and calculate scale7. Finally, they must perform a separate chemical swab or apply a specialized photonic bandage to assess biochemical health, such as pH levels or the presence of specific enzymes10. There is currently no unified, single-step imaging modality that simultaneously provides three-dimensional topographical scaling, environmental color calibration, morphological a",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c3",
+            "page_number": 6,
+            "text": "y provides three-dimensional topographical scaling, environmental color calibration, morphological artificial intelligence segmentation, and biochemical analysis using standard consumer smartphone hardware. Existing patents concerning color calibration generally cover external measurement modules, solid color cards, or internal electronic display calibrations. For example, United States Patent 9516288B2 details the color calibration of color image rendering devices utilizing internal measurement",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c4",
+            "page_number": 6,
+            "text": "6288B2 details the color calibration of color image rendering devices utilizing internal measurement instruments or external modules locatable on a wall, specifically targeting virtual proofing in networks28. Similarly, United States Patent 11676705B2 describes a system configured to receive an image of adjacent wounds near a form of colorized surface having colored reference elements to correct for local illumination29. These existing patents cover the use of physical, opaque color cards placed",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c5",
+            "page_number": 6,
+            "text": "or local illumination29. These existing patents cover the use of physical, opaque color cards placed near a subject. They explicitly do not cover the use of bio-responsive, transparent calibration overlays that actively change their optical profile based on physiological interaction. This represents a prime white space for intellectual property development. The creation of a unified diagnostic interface that is computationally elegant, physically easy to manufacture at scale, and highly accurate",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p6_c6",
+            "page_number": 6,
+            "text": "erface that is computationally elegant, physically easy to manufacture at scale, and highly accurate would represent a paradigm shift in telemedicine and remote patient monitoring.",
+            "start_char": 2400,
+            "end_char": 2580
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c0",
+            "page_number": 7,
+            "text": "The Proposed Patentable Project: The Bio-Responsive Fiducial Overlay System The proposed invention is the Bio-Responsive Fiducial Overlay System. This system completely eliminates the need for external color charts, crude binarization grids, and separate biochemical assays by embedding optical calibration, physical scale markers, and biochemical sensors directly into a sterile, transparent, disposable medical film. This film is designed to be placed directly over the anatomical site, such as a w",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c1",
+            "page_number": 7,
+            "text": "able medical film. This film is designed to be placed directly over the anatomical site, such as a wound bed, burn, or oral cavity, immediately prior to smartphone photography. Physical Architecture of the Consumable Substrate The physical component of the invention is a highly flexible, transparent, and biocompatible substrate. Material options include medical-grade polyurethane or a polydimethylsiloxane hydrogel film, both of which demonstrate excellent optical clarity and adherence to the com",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c2",
+            "page_number": 7,
+            "text": "siloxane hydrogel film, both of which demonstrate excellent optical clarity and adherence to the complex topography of human skin10. Printed directly onto this transparent film is a distinct geometric pattern of ArUco markers, or similar synthetic binary square fiducial markers7. However, unlike traditional fiducial markers that are printed using standard, inert black ink, the markers on this proposed film are printed using a proprietary, formulated matrix of colorimetric biochemical indicator d",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c3",
+            "page_number": 7,
+            "text": "osed film are printed using a proprietary, formulated matrix of colorimetric biochemical indicator dyes. This design choice serves three distinct optical and computational purposes simultaneously. First, the known, fixed geometric size and precise arrangement of the ArUco markers on the film provide the computer vision algorithm with absolute spatial reference points. Because the flexible film perfectly conforms to the three-dimensional topology of the wound or body part, the algorithm can calcu",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c4",
+            "page_number": 7,
+            "text": "fectly conforms to the three-dimensional topology of the wound or body part, the algorithm can calculate the exact three-dimensional surface area and topographical curvature by mathematically measuring the spatial distortion and perspective warp of the square markers within the two-dimensional image space7. This entirely resolves the scaling issues plaguing current burn area segmentation models3. Second, the perimeter of the transparent film features a miniaturized, fixed-pigment color palette, ",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c5",
+            "page_number": 7,
+            "text": "Second, the perimeter of the transparent film features a miniaturized, fixed-pigment color palette, functioning analogously to a traditional MacBeth chart, printed in standard, non-reactive inks7. This static color reference allows the smartphone software to instantly calculate the necessary Moore-Penrose inverse matrix to correct for any ambient light distortion or specific smartphone sensor spectral variance8. Third, the black and dark regions of the interior ArUco markers are formulated using",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c6",
+            "page_number": 7,
+            "text": "tral variance8. Third, the black and dark regions of the interior ArUco markers are formulated using a pH-sensitive or biomarker-sensitive dye mixture, such as rhodamine B doped directly into the polymer matrix10. When the film is placed over a moist wound bed, the chemical environment of the biological exudate diffuses rapidly into the polymer. This interaction causes the fiducial markers to undergo a quantifiable colorimetric shift, such as a predictable wavelength shift corresponding to the l",
+            "start_char": 2400,
+            "end_char": 2900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p7_c7",
+            "page_number": 7,
+            "text": "rgo a quantifiable colorimetric shift, such as a predictable wavelength shift corresponding to the localized pH level10. Algorithmic Architecture: The Joint-Task Convolutional Neural Network The software component of the patent involves a mobile application powered by a",
+            "start_char": 2800,
+            "end_char": 3070
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c0",
+            "page_number": 8,
+            "text": "custom-designed Joint-Task Convolutional Neural Network designed to process the image of the overlay system in a single, highly efficient computational pass. The architecture incorporates the temporal tracking and explainable intelligence frameworks adapted from advanced predictive modeling fields25. The computational pipeline executes in four distinct, sequential stages. In the first stage, environmental calibration occurs. The algorithm extracts the static perimeter color patches from the imag",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c1",
+            "page_number": 8,
+            "text": "onmental calibration occurs. The algorithm extracts the static perimeter color patches from the image. The raw red-green-blue values are transposed into the HSV or CIE-XYZ color space9. A color transformation matrix is computed and applied linearly to the source image, resulting in a normalized, exposure-invariant image that is stripped of ambient light bias and specific camera sensor characteristics6. In the second stage, topographical mapping is executed. The system applies adaptive thresholdi",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c2",
+            "page_number": 8,
+            "text": "ics6. In the second stage, topographical mapping is executed. The system applies adaptive thresholding and contour segmentation to detect the precise boundaries of the ArUco markers7. Camera pose estimation yields rotation and translation vectors to mathematically reconstruct the three-dimensional surface, providing absolute physical scaling and resolving all perspective distortion3. In the third stage, biochemical extraction takes place. The algorithm isolates the specific colorimetric shift of",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c3",
+            "page_number": 8,
+            "text": "stage, biochemical extraction takes place. The algorithm isolates the specific colorimetric shift of the bio-responsive ArUco markers. The Euclidean distance between the newly captured color and a theoretical reference point is calculated within the CIE-xy space9. Because the markers serve as both the spatial grid and the chemical sensor, the software generates a quantitative pH or biomarker gradient map that is perfectly transposed over the physical dimensions of the tissue. In the final stage,",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c4",
+            "page_number": 8,
+            "text": "ent map that is perfectly transposed over the physical dimensions of the tissue. In the final stage, morphological artificial intelligence processes the underlying tissue. The neural network applies an asymmetric attention mechanism to effectively look through the transparent negative space of the film3. A U-Net architecture, trained on vast datasets of dermatological conditions, segments the visible granulation, epithelialization, and necrotic tissue5. The output is a highly detailed semantic s",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c5",
+            "page_number": 8,
+            "text": "ble granulation, epithelialization, and necrotic tissue5. The output is a highly detailed semantic segmentation mask identifying exact tissue composition and estimated burn depth4. Computational Stage Technical Mechanism Utilized Primary Diagnostic Output 1. Environmental Calibration Moore-Penrose pseudo-inverse matrix applied to static RGB patches transposed to CIE-XYZ space8. Exposure-invariant image; absolute color standardization regardless of lighting6. 2. Topographical Mapping Adaptive thr",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p8_c6",
+            "page_number": 8,
+            "text": "image; absolute color standardization regardless of lighting6. 2. Topographical Mapping Adaptive thresholding on ArUco markers; extraction of rotation/translation vectors7. Absolute physical scaling ( ) resolving perspective distortion and tissue",
+            "start_char": 2400,
+            "end_char": 2646
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p9_c0",
+            "page_number": 9,
+            "text": "curvature. 3. Biochemical Extraction Shortest-distance measurement of colorimetric shift in CIE-xy space from bio-responsive markers9. Quantitative gradient map of localized pH or specific enzymatic activity10. 4. Morphological AI Asymmetric attention mechanism guiding a U-Net / ResNet50 segmentation network3. Semantic masking of necrotic, granulation, and epithelial tissue; AI-driven clinical explainability5. Mathematical Formulation for Illumination Correction To ensure the algorithmic process",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p9_c1",
+            "page_number": 9,
+            "text": "lainability5. Mathematical Formulation for Illumination Correction To ensure the algorithmic processing is grounded in robust mathematics, the system corrects the image prior to artificial intelligence processing by utilizing the static color patches on the film. Let the variable represent the source matrix containing the red-green-blue values of the static patches captured under unconstrained ambient light, and let represent the target matrix containing the absolute reference red-green-blue pro",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p9_c2",
+            "page_number": 9,
+            "text": "ient light, and let represent the target matrix containing the absolute reference red-green-blue profiles. The Moore-Penrose pseudo-inverse, denoted as , is computed to precisely map to using the equation: Where represents the final color transformation matrix. This matrix is then linearly applied to every single pixel in the raw photograph, effectively neutralizing the specific spectral sensitivity of the user's smartphone camera and providing a mathematically pure baseline for the subsequent n",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p9_c3",
+            "page_number": 9,
+            "text": "ty of the user's smartphone camera and providing a mathematically pure baseline for the subsequent neural network8. Domain-Specific Adaptations and Claims While the primary use case discussed focuses heavily on burn severity and chronic wound healing, the fundamental architecture of the Bio-Responsive Fiducial Overlay System is highly adaptable to other unpatented medical imaging domains highlighted in the research, dramatically expanding the scope of the patent claims. In the realm of intraoral",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p9_c4",
+            "page_number": 9,
+            "text": "ed in the research, dramatically expanding the scope of the patent claims. In the realm of intraoral tele-dentistry, recent studies utilizing YOLOv6 and Faster R-CNN models for smartphone-based dental caries detection report significant diagnostic accuracy but continually struggle with multi-class staging due to saliva glare and a lack of spatial scale in self-taken photographs11. The proposed framework can be adapted into a Smart Intraoral Retractor. A clear plastic dental retractor can be manu",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p9_c5",
+            "page_number": 9,
+            "text": "mework can be adapted into a Smart Intraoral Retractor. A clear plastic dental retractor can be manufactured with static color calibration patches and bio-responsive ArUco markers printed directly on the buccal shields. When a",
+            "start_char": 2000,
+            "end_char": 2226
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c0",
+            "page_number": 10,
+            "text": "parent takes a photograph of their child's teeth using the retractor, the static color patches mathematically neutralize the aggressive glare of the smartphone's flash6. The ArUco markers allow the artificial intelligence to map the exact millimeter size of the teeth and calculate the precise spatial area of plaque accumulation31. Furthermore, if the bio-responsive markers are formulated to be sensitive to lactic acid, which is produced by cariogenic bacteria, the smartphone software can visuall",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c1",
+            "page_number": 10,
+            "text": "sitive to lactic acid, which is produced by cariogenic bacteria, the smartphone software can visually map highly acidic zones in the mouth, chemically corroborating the artificial intelligence's visual detection of early-stage enamel demineralization11. For topographical musculoskeletal screening, such as scoliosis monitoring, current mobile applications rely on binarizing the image of a patient's back against a crude grid to find superficial asymmetries15. The proposed framework can be adapted ",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c2",
+            "page_number": 10,
+            "text": " back against a crude grid to find superficial asymmetries15. The proposed framework can be adapted as a disposable, stretchable adhesive grid applied directly to the patient's back. As the patient bends forward during the Adam's Forward Bending Test, the smartphone captures a continuous video. The software tracks the complex spatial distortion of the ArUco markers in real-time to generate a highly precise three-dimensional topographical map of the spinal rotation and rib hump. This methodology ",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c3",
+            "page_number": 10,
+            "text": "y precise three-dimensional topographical map of the spinal rotation and rib hump. This methodology offers geometric accuracy comparable to expensive clinical three-dimensional surface scanners without exposing pediatric patients to the harmful radiation of recurrent X-rays18. Intellectual Property Strategy and Defensibility To secure a robust and defensible patent portfolio, the intellectual property strategy must focus intensely on the structural interplay between the physical consumable and t",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c4",
+            "page_number": 10,
+            "text": "erty strategy must focus intensely on the structural interplay between the physical consumable and the algorithmic method, effectively circumventing existing display-calibration and solid-color-card patents28. The core system claim defines a medical diagnostic system comprising a flexible, transparent, biocompatible overlay substrate designed to conform to a biological surface. It specifies a plurality of fiducial markers disposed on the substrate, wherein at least one subset of these markers co",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c5",
+            "page_number": 10,
+            "text": "ality of fiducial markers disposed on the substrate, wherein at least one subset of these markers comprises a bio-responsive colorimetric indicator adapted to alter its optical profile in response to a localized biochemical variable. The claim further includes a plurality of static color reference targets disposed on the same substrate, and a mobile computational device configured to capture an optical image and execute a joint-task neural network to interpret the combined spatial, colorimetric,",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c6",
+            "page_number": 10,
+            "text": "tical image and execute a joint-task neural network to interpret the combined spatial, colorimetric, and biochemical data. The corresponding method claim details the exact procedural steps for the simultaneous morphological and biochemical assessment of tissue. This includes capturing an uncalibrated digital image, applying a color transformation matrix derived from the static references, computing a topographical three-dimensional scale based on the spatial distortion of the fiducial markers, a",
+            "start_char": 2400,
+            "end_char": 2900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c7",
+            "page_number": 10,
+            "text": "g a topographical three-dimensional scale based on the spatial distortion of the fiducial markers, and finally quantifying the biochemical parameter by mapping the colorimetric shift within the appropriate color space, all while segmenting the underlying tissue visible through the transparent negative space of the overlay. This specific claim structure is highly defensible against prior art. Current colorimetric smartphone applications rely entirely on linear arrays of opaque color pads that obs",
+            "start_char": 2800,
+            "end_char": 3300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p10_c8",
+            "page_number": 10,
+            "text": "nt colorimetric smartphone applications rely entirely on linear arrays of opaque color pads that obscure the tissue and do not provide three-dimensional spatial scaling9. Conversely, current artificial",
+            "start_char": 3200,
+            "end_char": 3401
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c0",
+            "page_number": 11,
+            "text": "intelligence burn assessment tools rely solely on software-based morphological segmentation without any biochemical integration or physical scaling references3. By explicitly claiming the structural combination of a transparent, shape-conforming fiducial overlay with inherent bio-responsive properties, the patent carves out a massive protective moat in the telemedicine hardware-software integration space. Conclusion The integration of advanced deep learning architectures with ubiquitous smartpho",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c1",
+            "page_number": 11,
+            "text": "n space. Conclusion The integration of advanced deep learning architectures with ubiquitous smartphone camera technology has successfully democratized preliminary medical screening across various domains. However, the persistent absence of absolute physical scale, robust environmental color calibration, and localized biochemical context severely limits the diagnostic authority and clinical utility of these decentralized systems. The proposed Bio-Responsive Fiducial Overlay System offers an elega",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c2",
+            "page_number": 11,
+            "text": " of these decentralized systems. The proposed Bio-Responsive Fiducial Overlay System offers an elegant, mathematically sound, and highly patentable solution to these pervasive challenges. By printing bio-responsive fiducial markers directly onto a transparent, conforming medical film, the system uniquely transforms a standard consumer smartphone into a rigorously calibrated, multi-modal diagnostic instrument. It enables a custom Joint-Task Convolutional Neural Network to simultaneously calculate",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c3",
+            "page_number": 11,
+            "text": " instrument. It enables a custom Joint-Task Convolutional Neural Network to simultaneously calculate physical scale, neutralize ambient lighting interference, map biochemical gradients, and perform deep semantic segmentation of underlying tissue in a single optical pass. This framework requires relatively low capital expenditure for initial prototyping, utilizing existing polymer chemistry, open-source computer vision libraries, and established artificial intelligence architectures. Ultimately, ",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c4",
+            "page_number": 11,
+            "text": "ource computer vision libraries, and established artificial intelligence architectures. Ultimately, developing and patenting this highly integrated hardware and software ecosystem would secure a pioneering, defensible position in the rapidly expanding sectors of remote wound care, digital dentistry, and decentralized patient monitoring. Works cited 1.\u200b Review of machine learning for optical imaging of burn wound severity assessment - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC10869118/ 2.\u200b On",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c5",
+            "page_number": 11,
+            "text": "g of burn wound severity assessment - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC10869118/ 2.\u200b On-site burn severity assessment using smartphone-captured color burn wound images, https://www.researchgate.net/publication/384607624_On-site_burn_severity_ass essment_using_smartphone-captured_color_burn_wound_images 3.\u200b On-site burn severity assessment using smartphone-captured color burn wound images, https://pubmed.ncbi.nlm.nih.gov/39362001/ 4.\u200b Automated Burn Detection from Images Using Deep L",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c6",
+            "page_number": 11,
+            "text": "ges, https://pubmed.ncbi.nlm.nih.gov/39362001/ 4.\u200b Automated Burn Detection from Images Using Deep Learning Models: The Role of AI in the Triage of Burn Injuries | medRxiv, https://www.medrxiv.org/content/10.64898/2025.12.24.25337638v1.full-text 5.\u200b AI-Assisted Assessment of Wound Tissue with Automatic Color and Measurement Calibration on Images Taken with a Smartphone - ResearchGate, https://www.researchgate.net/publication/367178999_AI-Assisted_Assessment_of _Wound_Tissue_with_Automatic_Color_",
+            "start_char": 2400,
+            "end_char": 2900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p11_c7",
+            "page_number": 11,
+            "text": "researchgate.net/publication/367178999_AI-Assisted_Assessment_of _Wound_Tissue_with_Automatic_Color_and_Measurement_Calibration_on_Image s_Taken_with_a_Smartphone 6.\u200b Machine reading and recovery of colors for hemoglobin-related bioassays and",
+            "start_char": 2800,
+            "end_char": 3042
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c0",
+            "page_number": 12,
+            "text": "bioimaging, https://pmc.ncbi.nlm.nih.gov/articles/PMC12136042/ 7.\u200b AI-Assisted Assessment of Wound Tissue with Automatic Color and Measurement Calibration on Images Taken with a Smartphone - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC9858639/ 8.\u200b AI-Assisted Assessment of Wound Tissue with Automatic Color and Measurement Calibration on Images Taken with a Smartphone - MDPI, https://www.mdpi.com/2227-9032/11/2/273 9.\u200b Smartphone-based colorimetric detection system for portable health tracking\u2020",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c1",
+            "page_number": 12,
+            "text": "/2227-9032/11/2/273 9.\u200b Smartphone-based colorimetric detection system for portable health tracking\u2020 | Analytical Methods | The Royal Society of Chemistry, https://pubs.rsc.org/ay/article/13/38/4361/715381/Smartphone-based-colorimetric -detection-system-for 10.\u200bPhotonic smart bandage for wound healing assessment - Optica Publishing Group, https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-3-272 11.\u200bFeasibility of multi-class dental caries detection using deep learning\u2013based smartphone images: a p",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c2",
+            "page_number": 12,
+            "text": "\u200bFeasibility of multi-class dental caries detection using deep learning\u2013based smartphone images: a pilot prospective study - Frontiers, https://www.frontiersin.org/journals/oral-health/articles/10.3389/froh.2026.180544 8/full 12.\u200bAccuracy of smartphone photographs for detecting active carious lesions in orthodontic patients - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC12419182/ 13.\u200bMobile Intraoral Photography as a Screening Tool for Early Childhood Caries: A Clinical Study, https://jccpracti",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c3",
+            "page_number": 12,
+            "text": "oral Photography as a Screening Tool for Early Childhood Caries: A Clinical Study, https://jccpractice.com/article/mobile-intraoral-photography-as-a-screening-tool -for-early-childhood-caries-a-clinical-study-1252/ 14.\u200bDeep learning in dental diagnostics: Caries detection through smartphone photographs \u2013 A systematic review - Journal of Global Oral Health, https://jglobaloralhealth.org/deep-learning-in-dental-diagnostics-caries-detectio n-through-smartphone-photographs-a-systematic-review/ 15.\u200bM",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c4",
+            "page_number": 12,
+            "text": "ng-in-dental-diagnostics-caries-detectio n-through-smartphone-photographs-a-systematic-review/ 15.\u200bMobile Application for Scoliosis Screening Using a Standard 2D Digital Camera - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8051536/ 16.\u200bThe smartphone as a tool to screen for scoliosis, applicable by everyone - Erasmus University Rotterdam, https://pure.eur.nl/en/publications/the-smartphone-as-a-tool-to-screen-for-scoli osis-applicable-by-ev/ 17.\u200bMobile Application for Scoliosis Screening Using ",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c5",
+            "page_number": 12,
+            "text": "ool-to-screen-for-scoli osis-applicable-by-ev/ 17.\u200bMobile Application for Scoliosis Screening Using a Standard 2D Digital Camera - PubMed, https://pubmed.ncbi.nlm.nih.gov/33880282/ 18.\u200bRevolutionize Screening: ai powered scoliosis detection using smartphone - PosturaZen, https://posturazen.com/blog/ai-powered-scoliosis-detection-using-smartphone/ 19.\u200bA Machine Learning-Based Crop Recommendation System Using Soil Nutrients and Climatic Factors - ResearchGate, https://www.researchgate.net/publicat",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c6",
+            "page_number": 12,
+            "text": "stem Using Soil Nutrients and Climatic Factors - ResearchGate, https://www.researchgate.net/publication/399453204_A_Machine_Learning-Base d_Crop_Recommendation_System_Using_Soil_Nutrients_and_Climatic_Factors 20.\u200bA hybrid SERWI ensemble model for crop yield prediction using an inverse RMSE weighting strategy - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC12748873/ 21.\u200bIntelligent Crop Recommendation Framework for Optimized Agricultural",
+            "start_char": 2400,
+            "end_char": 2840
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p12_c7",
+            "page_number": 12,
+            "text": "ion Framework for Optimized Agricultural",
+            "start_char": 2800,
+            "end_char": 2840
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c0",
+            "page_number": 13,
+            "text": "Productivity using Machine Learning Techniques - ResearchGate, https://www.researchgate.net/publication/401860192_Intelligent_Crop_Recomme ndation_Framework_for_Optimized_Agricultural_Productivity_using_Machine_Lea rning_Techniques 22.\u200b(PDF) Crop recommendation and forecasting system for Maharashtra using machine learning with LSTM: a novel expectation-maximization technique - ResearchGate, https://www.researchgate.net/publication/381803511_Crop_recommendation_and _forecasting_system_for_Maharas",
+            "start_char": 0,
+            "end_char": 500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c1",
+            "page_number": 13,
+            "text": "//www.researchgate.net/publication/381803511_Crop_recommendation_and _forecasting_system_for_Maharashtra_using_machine_learning_with_LSTM_a_no vel_expectation-maximization_technique 23.\u200bAn Explainable Transformer-Based Deep Learning Framework for Crop Sustainability Prediction in Sustainable Agriculture | Engineering, Technology & Applied Science Research, https://etasr.com/index.php/ETASR/article/view/18848 24.\u200bEco-Friendly and Explainable Hybrid Machine Learning Models for Sustainable Crop and",
+            "start_char": 400,
+            "end_char": 900
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c2",
+            "page_number": 13,
+            "text": "/view/18848 24.\u200bEco-Friendly and Explainable Hybrid Machine Learning Models for Sustainable Crop and Fertilizer Recommendation System - IEEE Computer Society, https://www.computer.org/csdl/journal/su/2026/03/11498480/2g3CHT8nkt2 25.\u200bAn explainable AI-based hybrid machine learning model for interpretability and enhanced crop yield prediction - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC12226059/ 26.\u200bTracking immunization milestones: a community-based survey of child vaccination compliance from",
+            "start_char": 800,
+            "end_char": 1300
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c3",
+            "page_number": 13,
+            "text": " 26.\u200bTracking immunization milestones: a community-based survey of child vaccination compliance from birth to one year age in India - ResearchGate, https://www.researchgate.net/publication/383563995_Tracking_immunization_mil estones_a_community-based_survey_of_child_vaccination_compliance_from_bir th_to_one_year_age_in_India 27.\u200bAutomated Vaccination Reminder and Tracking System for Rural Areas - ResearchGate, https://www.researchgate.net/publication/398718247_Automated_Vaccination_Re minder_and",
+            "start_char": 1200,
+            "end_char": 1700
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c4",
+            "page_number": 13,
+            "text": "ResearchGate, https://www.researchgate.net/publication/398718247_Automated_Vaccination_Re minder_and_Tracking_System_for_Rural_Areas 28.\u200bUS9516288B2 - Color calibration of color image rendering devices - Google Patents, https://patents.google.com/patent/US9516288B2/en 29.\u200bUS11676705B2 - Tracking wound healing progress using remote image analysis - Google Patents, https://patents.google.com/patent/US11676705B2/en 30.\u200bAn innovative artificial neural network model for smart crop prediction using se",
+            "start_char": 1600,
+            "end_char": 2100
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c5",
+            "page_number": 13,
+            "text": "US11676705B2/en 30.\u200bAn innovative artificial neural network model for smart crop prediction using sensory network based soil data - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11623066/ 31.\u200bPicture perfect: study protocol for assessing the accuracy, feasibility and acceptability of intraoral photographs captured by parents for remote dental screening in children \u2013 an observational mixed-methods study | BMJ Open, https://bmjopen.bmj.com/content/15/9/e104769 32.\u200bCan Modern Smart Phones Be Used t",
+            "start_char": 2000,
+            "end_char": 2500
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c6",
+            "page_number": 13,
+            "text": "study | BMJ Open, https://bmjopen.bmj.com/content/15/9/e104769 32.\u200bCan Modern Smart Phones Be Used to Detect Scoliosis? The use of Machine Learning and a Time-of-Flight Mobile Phone Camera for the Screening and Diagnosis of Adolescent Idiopathic Scoliosis - IFPOC, https://ifpoc.org/project/can-modern-smart-phones-be-used-to-detect-scoliosi s-the-use-of-machine-learning-and-a-time-of-flight-mobile-phone-camera-for -the-screening-and-diagnosis-of-adolescent-idiopathic-scoliosis/",
+            "start_char": 2400,
+            "end_char": 2881
+        },
+        {
+            "document_id": "d0197f82371748e69fbb564e2182eefb",
+            "chunk_id": "d0197f82371748e69fbb564e2182eefb_p13_c7",
+            "page_number": 13,
+            "text": "phone-camera-for -the-screening-and-diagnosis-of-adolescent-idiopathic-scoliosis/",
+            "start_char": 2800,
+            "end_char": 2881
+        }
+    ]
+}
